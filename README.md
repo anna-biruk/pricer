@@ -17,13 +17,20 @@
 - MongoDB
 - Mongoose
 
-This is the main page:
+##### This is the main page:
+
 <img src="./front-end/public/1.png">
-This is the page with Polish products:
+
+##### This is the page with Polish products:
+
 <img src="./front-end/public/3.png">
-This is the page with Belarusian products:
+
+##### This is the page with Belarusian products:
+
 <img src="./front-end/public/4.png">
-This is the page with the alternatives found:
+
+##### This is the page with the alternatives found:
+
 <img src="./front-end/public/2.png">
 
 
